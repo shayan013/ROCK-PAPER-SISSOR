@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+  width: 75%;
+  margin: 5rem auto;
+}
+h1 {
+  margin-bottom: 3rem;
+}
+
+.flex-box img:hover {
+  box-shadow: 10px 10px 50px rgba(37, 16, 260, 2);
+}
